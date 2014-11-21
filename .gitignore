@@ -2,6 +2,7 @@
 *.userprefs
 *.cachefile
 *.mdb
+idTech4/Build
 idTech4/obj
 idTech4/bin
 idTech4.ContentPipeline.BImage/bin
@@ -68,3 +69,4 @@ MonoGame/DOOM3/obj
 MonoGame/DOOM3/bin
 MonoGame/DOOM3Content/bin
 MonoGame/DOOM3Content/obj
+MonoGame/MonoGame-develop
